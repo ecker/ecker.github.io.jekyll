@@ -1,1 +1,0 @@
-# ecker.github.io.jekyll
