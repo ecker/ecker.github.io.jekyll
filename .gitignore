@@ -1,2 +1,8 @@
+# Eclipse
+.project
+
+# Jekyll
 _site
 .sass-cache
+
+#
